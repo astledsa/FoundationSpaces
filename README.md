@@ -2,6 +2,7 @@
 
 This repository is where I will learn and explore the various way one can write compilers and type theories. Here's the roadmap (which may or may not change later one). 
 
+```
 K0  Untyped λ-calculus
  │
 K1  Simply Typed λ-calculus
@@ -50,3 +51,4 @@ C4 Lean-ish          Cubical branch   2-level/modal branch
                                             S4 Synthetic ∞-categories
                                                  │
                                             Rzk-like core
+```
